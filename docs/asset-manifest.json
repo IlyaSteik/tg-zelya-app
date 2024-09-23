@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.7c4ba754.css",
-    "main.js": "./static/js/main.0a3aa8f1.js",
+    "main.css": "./static/css/main.7637ff5b.css",
+    "main.js": "./static/js/main.20223624.js",
     "static/media/icon_airdrop.svg": "./static/media/icon_airdrop.66efa315503441b484527892d8d70da3.svg",
     "static/media/bg-3.webp": "./static/media/bg-3.3475ed0f07c481ab7d94.webp",
     "static/media/Unbounded-ExtraBold.ttf": "./static/media/Unbounded-ExtraBold.8bfaaced79220c303a8d.ttf",
@@ -10,6 +10,7 @@
     "static/media/bg-5.webp": "./static/media/bg-5.c4db32b4ed23685382c9.webp",
     "static/media/icon_loading_question.svg": "./static/media/icon_loading_question.d28eba2edb055c65a7d8eba3c2052c2f.svg",
     "static/media/bg-6.webp": "./static/media/bg-6.6e9da65d81072250185b.webp",
+    "static/media/coin.webp": "./static/media/coin.8d987b5b457a6fcb5a43.webp",
     "static/media/bg-2.webp": "./static/media/bg-2.a2912f2878cf82b369e5.webp",
     "static/media/bg-1.webp": "./static/media/bg-1.b7c49ca60114220ec6a3.webp",
     "static/media/WixMadeforDisplay-SemiBold.ttf": "./static/media/WixMadeforDisplay-SemiBold.7dc5713259442e0b332b.ttf",
@@ -23,6 +24,8 @@
     "static/media/zelya-1.webp": "./static/media/zelya-1.6334ce7e274225da6fba.webp",
     "static/media/zelya-5.webp": "./static/media/zelya-5.a81d8456b619eb2f8cd7.webp",
     "static/media/zelya-4.webp": "./static/media/zelya-4.5d3dcab7450baf5bcca8.webp",
+    "static/media/daily_modal.webp": "./static/media/daily_modal.e8651a0e8252bf5b7944.webp",
+    "static/media/telegram_modal.webp": "./static/media/telegram_modal.9b3bf94d2a5aa70e3a16.webp",
     "static/media/zelya-3.webp": "./static/media/zelya-3.00a55c771e0f6ddacf8d.webp",
     "static/media/zelya-2.webp": "./static/media/zelya-2.aad8046c72851c380425.webp",
     "static/media/1.webp": "./static/media/1.7ec7ce4fdd27cb1a54a8.webp",
@@ -33,8 +36,10 @@
     "static/media/2.webp": "./static/media/2.2e13dedb57907920cd5d.webp",
     "static/media/icon_coin.webp": "./static/media/icon_coin.834f719552c652ee0a9c.webp",
     "static/media/icon_tasks.svg": "./static/media/icon_tasks.26dac33065a9e460ceac7c258c92db28.svg",
+    "static/media/telegram.webp": "./static/media/telegram.529fc5d9455f2220909a.webp",
     "static/media/icon_battle.svg": "./static/media/icon_battle.bca64073bd28e125d168a6127d92a01a.svg",
     "static/media/icon_map.svg": "./static/media/icon_map.da50fe500f14ecfd3d922a45592d4758.svg",
+    "static/media/daily.webp": "./static/media/daily.bbb510ea328093b91ec7.webp",
     "static/media/icon_rating.svg": "./static/media/icon_rating.dc4cbc96f4a480ba6af60b211fe97ca7.svg",
     "static/media/eur.webp": "./static/media/eur.a47fa06dea8dcf6a9a91.webp",
     "static/media/icon_friends.svg": "./static/media/icon_friends.fec5dcfd46a6fe9a9f94c12523ab15f3.svg",
@@ -53,11 +58,11 @@
     "static/media/vk-icon.webp": "./static/media/vk-icon.dcdee4c793265715fee9.webp",
     "static/media/youtube-icon.webp": "./static/media/youtube-icon.f3625455c7172696519f.webp",
     "static/media/telegram-icon.webp": "./static/media/telegram-icon.c867a58ca935002daf1c.webp",
-    "main.7c4ba754.css.map": "./static/css/main.7c4ba754.css.map",
-    "main.0a3aa8f1.js.map": "./static/js/main.0a3aa8f1.js.map"
+    "main.7637ff5b.css.map": "./static/css/main.7637ff5b.css.map",
+    "main.20223624.js.map": "./static/js/main.20223624.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c4ba754.css",
-    "static/js/main.0a3aa8f1.js"
+    "static/css/main.7637ff5b.css",
+    "static/js/main.20223624.js"
   ]
 }
